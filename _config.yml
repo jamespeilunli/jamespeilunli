@@ -1,7 +1,6 @@
 # The Site Configuration
 
 
-remote_theme: benbalter/retlab
 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
 # change below value to '/projectname'.
@@ -176,3 +175,5 @@ jekyll-archives:
 
 plugins:
   - jekyll-remote-theme
+
+remote_theme: benbalter/retlab
