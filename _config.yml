@@ -173,8 +173,5 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-plugins:
-  - jekyll-remote-theme
 
-remote_theme: benbalter/retlab
 theme: jekyll-theme-cayman
