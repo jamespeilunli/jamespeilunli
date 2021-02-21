@@ -177,3 +177,4 @@ plugins:
   - jekyll-remote-theme
 
 remote_theme: benbalter/retlab
+theme: jekyll-theme-cayman
