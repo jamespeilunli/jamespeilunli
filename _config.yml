@@ -174,4 +174,4 @@ jekyll-archives:
     category: /categories/:name/
 
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
